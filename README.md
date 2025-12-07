@@ -36,7 +36,8 @@ pip install psutil plyer
 
 1.  Place the script anywhere on your system.
 2.  Run it. (Python should be installed for .PY files.)
-3.  To make it start automatically on Windows:
+Optional:
+To make it start automatically on Windows:
     -   Press `Win + R`, type `shell:startup`.
     -   Add a shortcut to the script there.
     -   In the shortcut properties → **Run** → choose **Minimized**.
