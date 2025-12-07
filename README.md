@@ -17,7 +17,6 @@ levels to help users manually maintain healthier charging habits.
 -   **High‑battery alert** when the laptop *is plugged in* and battery
     level is **80% or above**.
 -   Runs silently in the background.
--   Configurable threshold values.
 -   Automatic start‑up via Windows *shell:startup* (optional).
 -   Uses `plyer` for cross‑platform system notifications.
 -   Lightweight and resource‑friendly.
