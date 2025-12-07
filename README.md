@@ -17,7 +17,6 @@ levels to help users manually maintain healthier charging habits.
 -   **High‑battery alert** when the laptop *is plugged in* and battery
     level is **80% or above**.
 -   Runs silently in the background.
--   Automatic start‑up via Windows *shell:startup* (optional).
 -   Uses `plyer` for cross‑platform system notifications.
 -   Lightweight and resource‑friendly.
 
@@ -36,12 +35,7 @@ pip install psutil plyer
 ## 🚀 Usage
 
 1.  Place the script anywhere on your system.
-2.  Run it using:
-
-``` bash
-python Battery\ Notifier.py
-```
-
+2.  Run it. (Python should be installed for .PY files.)
 3.  To make it start automatically on Windows:
     -   Press `Win + R`, type `shell:startup`.
     -   Add a shortcut to the script there.
