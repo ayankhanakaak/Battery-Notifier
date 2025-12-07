@@ -47,11 +47,11 @@ To make it start automatically on Windows:
 
 ## ⚙️ Configuration
 
-You can change the threshold values inside the script:
+You can change the threshold values inside the script (even with Notepad):
 
 ``` python
-LOW_THRESHOLD = 20
-HIGH_THRESHOLD = 80
+LOW_THRESHOLD = 20 (at line 64)
+HIGH_THRESHOLD = 80 (at line 65)
 ```
 
 ------------------------------------------------------------------------
