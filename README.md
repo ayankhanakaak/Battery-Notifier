@@ -66,16 +66,9 @@ The script:
 
 ------------------------------------------------------------------------
 
-## 📁 File Structure
-
-    Battery Notifier.py
-    README.md
-
-------------------------------------------------------------------------
-
 ## 📜 License
 
-This project is released under the MIT License.
+GPL-3.0
 
 ------------------------------------------------------------------------
 
@@ -87,5 +80,4 @@ Feel free to submit pull requests or suggestions.
 
 ## ⭐ Support
 
-If you find this useful, consider giving the GitHub repository a star
-once published!
+If you find this useful, consider giving the GitHub repository a star!
